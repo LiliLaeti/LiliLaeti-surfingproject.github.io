@@ -1,0 +1,12 @@
+.jumbotron.jumbotron-fluid{
+    background-image:url(img/marco.jpg);  
+    height:auto; 
+}  
+
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+h5{
+    font-size: 35px;
+} 
+
