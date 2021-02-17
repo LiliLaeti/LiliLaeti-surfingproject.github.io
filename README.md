@@ -1,3 +1,3 @@
 # LiliLaeti-surfingproject.github.io
-#bootstrap
+#bootstrap projet d'entrainement
 but :ecrire le moins de CSS
